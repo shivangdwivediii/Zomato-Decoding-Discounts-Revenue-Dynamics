@@ -2,8 +2,11 @@
 
 This Power BI project explores the impact of discount strategies (0%, 10%, 20%) on customer orders and total revenue using a simulated Zomato dataset from Kaggle. The objective was to provide actionable insights to optimize promotional campaigns for maximum profitability.
 
+---
+
 <img width="1321" height="742" alt="image" src="https://github.com/user-attachments/assets/2f42f308-d1b8-4508-9088-191cf53ce657" />
 
+---
 
 ## 📊 Objective
 To analyze how different discount levels affect:
